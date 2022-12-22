@@ -4,7 +4,7 @@ In this project we will be working with a Movie cost and revenue data set, Which
 This data set contains the following features:
 
 - ___'production_budget_usd'___: Movie production project in dollars. It will be our X variable or Feature variable.
-- ___',worldwide_gross_usd'___: Wordwide gross amount earned in rupees after movie release. It will be our target variable.
+- ___'worldwide_gross_usd'___: Wordwide gross amount earned in rupees after movie release. It will be our target variable.
 
 
 ### Project Objectives:
