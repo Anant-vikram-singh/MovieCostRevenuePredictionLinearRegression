@@ -1,0 +1,2 @@
+# MovieCostRevenuePredictionLinearRegression
+Movie-Cost-Revenue-Prediction-Linear-Regression
