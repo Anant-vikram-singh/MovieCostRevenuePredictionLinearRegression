@@ -1,4 +1,4 @@
-# Movie-Cost-Revenue-Prediction-Linear-Regressio
+# Movie-Cost-Revenue-Prediction-Linear-Regression
 In this project we will be working with a Movie cost and revenue data set, Which has cost for movie production and gross amount earned in dollars. We will try to create a linear regression model that will predict the gross earned value of a movie based on cost spent on movie production. 
 
 This data set contains the following features:
